@@ -5,6 +5,7 @@
 - [archive_20260510_002300](./archive_20260510_002300)
 - [archive_20260510_014654](./archive_20260510_014654)
 - [archive_20260510_015232](./archive_20260510_015232)
+- [com.koga3.intheshadowsofashwood-v0.03](./com.koga3.intheshadowsofashwood-v0.03)
 - [comkoga3heartproblems-Ch10](./comkoga3heartproblems-Ch10)
 - [f3tbcTpF9](./f3tbcTpF9)
 - [heart-problems-508](./heart-problems-508)
