@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [3proxy-0.6](./3proxy-0.6)
+- [3proxy-0.9.6.1-x64](./3proxy-0.9.6.1-x64)
 - [3proxy-0.9.6.1](./3proxy-0.9.6.1)
 - [In_the_shadows_of_Ashwood-0.01](./In_the_shadows_of_Ashwood-0.01)
 - [PathOfBuildingCommunity-PoE2-Portable](./PathOfBuildingCommunity-PoE2-Portable)
